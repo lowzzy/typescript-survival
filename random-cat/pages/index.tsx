@@ -1,5 +1,5 @@
 import { GetServerSideProps, NextPage } from 'next';
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import styles from './index.module.css';
 
 type Props = {
